@@ -1,0 +1,35 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>/acme/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:02 +0200</lastBuildDate>
+    
+        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Pirineo</title>
+<link>/acme/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:02 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>/acme/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:53:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
