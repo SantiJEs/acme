@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: /
 languageCode: es-es 
 title: Acme Corporation 
 theme: Eclectic 
@@ -12,7 +12,7 @@ author:
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
 
 menu:
-  main: 
+  main:
     - identifier: about 
       name: Acerca de 
       url: /about 
@@ -21,7 +21,17 @@ menu:
       name: Contacto 
       url: /contacto 
       weight: 200 
+    - identifier: curriculum
+      name: Curriculum 
+      url: /curriculum 
+      weight: 50  
+    - identifier: viajes
+      name: Viajes 
+      url: /viajes
+      weight: 40       
+
 params: 
+  colorPickerEnabled: true
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
   footer:
