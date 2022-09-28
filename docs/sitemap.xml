@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mipagina.com/acme/blog/</loc>
+    <loc>/acme/blog/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/blog/primer-post/</loc>
+    <loc>/acme/blog/primer-post/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/viajes/</loc>
+    <loc>/acme/viajes/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/viajes/pirineo/</loc>
+    <loc>/acme/viajes/pirineo/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/viajes/paris/</loc>
+    <loc>/acme/viajes/paris/</loc>
     <lastmod>2022-09-21T09:44:48+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/</loc>
+    <loc>/acme/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/contacto/</loc>
+    <loc>/acme/contacto/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/curriculum/</loc>
+    <loc>/acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>http://mipagina.com/acme/categories/</loc>
+    <loc>/acme/categories/</loc>
   </url><url>
-    <loc>http://mipagina.com/acme/tags/</loc>
+    <loc>/acme/tags/</loc>
   </url>
 </urlset>
