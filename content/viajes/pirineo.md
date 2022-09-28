@@ -2,6 +2,8 @@
 title: "Pirineo"
 date: 2022-09-26
 draft: false
+lat: 42.5726164
+lon: -0.5568484
 ---
 
 > Viajes de verano
