@@ -1,0 +1,3 @@
+[submodule "themes/basico"]
+	path = themes/basico
+	url = git@github.com:DWES-LE/tema-basico.git
