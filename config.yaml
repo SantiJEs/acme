@@ -33,10 +33,27 @@ menu:
       pageRef: viajes
       weight: 40   
     - identifier: tv
-      name: Canales 
-      url: /television/canales
+      name: Canales TV
+      url: /television
       pageRef: tv
       weight: 500       
+    - identifier: pilares
+      name: Pilares
+      url: /pilares
+      pageRef: pilares
+      weight: 550       
+    - identifier: pelis
+      name: Pelis
+      url: /peliculas
+      pageRef: peliculas
+      weight: 600       
+    - identifier: coles
+      name: Institutos
+      url: /institutos
+      pageRef: institutos
+      weight: 600       
+
+
 
 params: 
   colorPickerEnabled: true
