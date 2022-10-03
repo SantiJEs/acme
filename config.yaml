@@ -1,6 +1,6 @@
-baseURL: http://localhost   # configurado para gh pages
+baseURL: "http://misitio.com"
 languageCode: es-es 
-title: Acme Corporation 
+title: Acme Corp.
 theme: basico 
 author: 
   facebook: "https://facebook.com/example" 
@@ -30,6 +30,7 @@ menu:
     - identifier: viajes
       name: Viajes 
       url: /viajes
+      pageRef: viajes
       weight: 40       
 
 params: 

@@ -1,0 +1,13 @@
+{{ $imagen := $.Page.Resources.GetMatch (.Get 0)}}
+{{ $imagenReducida := $imagen.Resize "480x" }}
+
+<figure class="figure">
+  <a href="{{ $imagen.RelPermalink }}">
+    {{ with $imagenReducida }}
+    <img src="{{ .RelPermalink }}"
+         width="{{ .Width }}" height="{{ .Height }}"
+         alt="{{ $.Get 1 }}" class="figure-img img-fluid">
+    {{ end }}
+  </a>
+  <figcaption class="figure-caption">{{ .Get 1 }}</figcaption>
+</figure>

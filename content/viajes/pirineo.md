@@ -1,8 +1,8 @@
 ---
-title: Pirineo
-date: 2022-09-21T08:55:02+02:00
+title: "Pirineo"
+date: 2022-09-26
 draft: false
-lat: 42.5726322
+lat: 42.5726164
 lon: -0.5568484
 ---
 
