@@ -29,7 +29,12 @@ menu:
       name: Viajes 
       url: /viajes
       pageRef: viajes
-      weight: 40       
+      weight: 40   
+    - identifier: tv
+      name: Canales 
+      url: /television/canales
+      pageRef: tv
+      weight: 500       
 
 params: 
   colorPickerEnabled: true
